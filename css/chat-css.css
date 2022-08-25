@@ -79,7 +79,11 @@ body {
 }
 
 .name-person .icon-app {
+    background-image: url("../images/angle-left.png");
+    background-size: cover;
     margin-right: 3px;
+    width: 13px;
+    height: 13px;
 }
 
 .heading-app .img-avatar {
